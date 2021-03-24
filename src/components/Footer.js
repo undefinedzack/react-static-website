@@ -82,24 +82,24 @@ const Footer = () => {
                         <>
                             <div className={'row'}>
                                 <div className={'col-4'}>
-                                    <img style={{height: '41px', width:'133px'}} src={'https://www.elbissop.in/course/imgg/co/4.png'}/>
+                                    <img alt="" style={{height: '41px', width:'133px'}} src={'https://www.elbissop.in/course/img alt=""g/co/4.png'}/>
                                 </div>
                                 <div className={'col-4'}>
-                                    <img style={{height: '55px', width:'115px'}} src={'https://www.toughlex.com/wp-content/uploads/2017/02/net-logo-featured-image-2.png'}/>
+                                    <img alt="" style={{height: '55px', width:'115px'}} src={'https://www.toughlex.com/wp-content/uploads/2017/02/net-logo-featured-image-2.png'}/>
                                 </div>
                                 <div className={'col-4'}>
-                                    <img style={{height: '41px', width:'77px'}} src={'https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png'}/>
+                                    <img alt="" style={{height: '41px', width:'77px'}} src={'https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png'}/>
                                 </div>
                             </div>
                             <div className={'row'}>
                                 <div className={'col-4'}>
-                                    <img style={{height: '60px', width:'110px'}} src={'https://cdn.magicbytesolutions.com/assets/img/common/ios-app.png'}/>
+                                    <img alt="" style={{height: '60px', width:'110px'}} src={'https://cdn.magicbytesolutions.com/assets/img alt=""/common/ios-app.png'}/>
                                 </div>
                                 <div className={'col-4'}>
-                                    <img style={{height: '80px', width:'144px'}} src={'https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98.png'}/>
+                                    <img alt="" style={{height: '80px', width:'144px'}} src={'https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98.png'}/>
                                 </div>
                                 <div className={'col-4'}>
-                                    <img style={{height: '80px', width:'144px'}} src={'https://1000logos.net/wp-content/uploads/2020/05/BlackBerry-logo.jpg'}/>
+                                    <img alt="" style={{height: '80px', width:'144px'}} src={'https://1000logos.net/wp-content/uploads/2020/05/BlackBerry-logo.jpg'}/>
                                 </div>
                             </div>
                         </>
@@ -107,24 +107,24 @@ const Footer = () => {
                             <>
                                 <div className={'row mt-3'}>
                                     <div className={'col-4'}>
-                                        <img style={{height: '34px', width:'90px'}} src={'https://www.elbissop.in/course/imgg/co/4.png'}/>
+                                        <img alt="" style={{height: '34px', width:'90px'}} src={'https://www.elbissop.in/course/img alt=""g/co/4.png'}/>
                                     </div>
                                     <div className={'col-4'}>
-                                        <img style={{height: '55px', width:'100px'}} src={'https://www.toughlex.com/wp-content/uploads/2017/02/net-logo-featured-image-2.png'}/>
+                                        <img alt="" style={{height: '55px', width:'100px'}} src={'https://www.toughlex.com/wp-content/uploads/2017/02/net-logo-featured-image-2.png'}/>
                                     </div>
                                     <div className={'col-4'}>
-                                        <img style={{height: '41px', width:'77px'}} src={'https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png'}/>
+                                        <img alt="" style={{height: '41px', width:'77px'}} src={'https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png'}/>
                                     </div>
                                 </div>
                                 <div className={'row'}>
                                     <div className={'col-4'}>
-                                        <img style={{height: '60px', width:'110px'}} src={'https://cdn.magicbytesolutions.com/assets/img/common/ios-app.png'}/>
+                                        <img alt="" style={{height: '60px', width:'110px'}} src={'https://cdn.magicbytesolutions.com/assets/img alt=""/common/ios-app.png'}/>
                                     </div>
                                     <div className={'col-4'}>
-                                        <img style={{height: '80px', width:'110px'}} src={'https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98.png'}/>
+                                        <img alt="" style={{height: '80px', width:'110px'}} src={'https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98.png'}/>
                                     </div>
                                     <div className={'col-4'}>
-                                        <img style={{height: '80px', width:'100px'}} src={'https://1000logos.net/wp-content/uploads/2020/05/BlackBerry-logo.jpg'}/>
+                                        <img alt="" style={{height: '80px', width:'100px'}} src={'https://1000logos.net/wp-content/uploads/2020/05/BlackBerry-logo.jpg'}/>
                                     </div>
                                 </div>
                             </>

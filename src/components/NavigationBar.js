@@ -45,12 +45,12 @@ const NavigationBar = () => {
                                         About
                                     </p>
                                     <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <li><a className="dropdown-item" href="#">Action</a></li>
-                                        <li><a className="dropdown-item" href="#">Another action</a></li>
+                                        <li><p className="dropdown-item">Action</p></li>
+                                        <li><p className="dropdown-item">Another action</p></li>
                                         <li>
                                             <hr className="dropdown-divider"/>
                                         </li>
-                                        <li><a className="dropdown-item" href="#">Something else here</a></li>
+                                        <li><p className="dropdown-item">Something else here</p></li>
                                     </ul>
                                 </li>
                                 <li className="nav-item dropdown">
@@ -59,12 +59,12 @@ const NavigationBar = () => {
                                         About
                                     </p>
                                     <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <li><a className="dropdown-item" href="#">Action</a></li>
-                                        <li><a className="dropdown-item" href="#">Another action</a></li>
+                                        <li><p className="dropdown-item">Action</></li>
+                                        <li><p className="dropdown-item">Another action</p></li>
                                         <li>
                                             <hr className="dropdown-divider"/>
                                         </li>
-                                        <li><a className="dropdown-item" href="#">Something else here</a></li>
+                                        <li><p className="dropdown-item">Something else here</p></li>
                                     </ul>
                                 </li>
                                 <li className="nav-item">

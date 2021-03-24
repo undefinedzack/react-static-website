@@ -82,7 +82,7 @@ const Footer = () => {
                         <>
                             <div className={'row'}>
                                 <div className={'col-4'}>
-                                    <img style={{height: '41px', width:'133px'}} src={'https://www.elbissop.in/course/imgg/co/4.png'}/>
+                                    <img alt="" style={{height: '41px', width:'133px'}} src={'https://www.elbissop.in/course/imgg/co/4.png'}/>
                                 </div>
                                 <div className={'col-4'}>
                                     <img alt="" style={{height: '55px', width:'115px'}} src={'https://www.toughlex.com/wp-content/uploads/2017/02/net-logo-featured-image-2.png'}/>
